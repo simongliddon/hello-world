@@ -1,2 +1,6 @@
 # hello-world
 hello-world sample git project
+
+I have absolutely no idea what I'm supposed to write about here. I wonder if there's a bot that randomly reads what everyone wrote in their first hello-world project and collates it somewhere....
+
+also when I make comments that invite thought, I use four periods, not three....
